@@ -1,0 +1,22 @@
+{
+  "name": "tab-component",
+  "version": "1.0.0",
+  "description": "## Intro Your client within your team has requested a tab component for their site. The work was approved and handed to the team designer designer, who has created a design for large screens in Sketch however they haven't done anything for small screens. They have now gone on holiday with the work unfinished and you have the task to complete the work.",
+  "main": "tabs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidChristopherJohnson/tab-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidChristopherJohnson/tab-component/issues"
+  },
+  "homepage": "https://github.com/DavidChristopherJohnson/tab-component#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
